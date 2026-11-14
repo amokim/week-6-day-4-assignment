@@ -1,0 +1,30 @@
+{
+  "name": "week-6-day-4-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amokim/week-6-day-4-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amokim/week-6-day-4-assignment/issues"
+  },
+  "homepage": "https://github.com/amokim/week-6-day-4-assignment#readme",
+  "devDependencies": {
+    "prisma": "^7.10.1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "@prisma/adapter-pg": "^7.10.1",
+    "@prisma/client": "^7.10.1",
+    "dotenv": "^18.0.10"
+  }
+}
